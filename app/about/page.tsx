@@ -40,7 +40,7 @@ export default function About() {
         <Pricing
           title={"Get the one that fits you"}
           pricingGridSlot={[
-            <Package pricingHeadingPrice={"$100"}>dsf</Package>,
+            <Package pricingHeadingPrice={"$100"}></Package>,
             <Package></Package>,
           ]}
         ></Pricing>
